@@ -1,0 +1,6 @@
+torch>=2.5
+numpy>=1.26
+datasets>=3.0
+tiktoken>=0.8
+pyarrow>=18
+huggingface-hub>=0.26
